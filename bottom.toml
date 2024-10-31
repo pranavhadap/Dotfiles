@@ -1,0 +1,36 @@
+[colors]
+table_header_color = "#D3C6AA" # Soft Cream
+all_cpu_color = "#D3C6AA" # Soft Cream
+avg_cpu_color = "#E67E80" # Soft Red
+cpu_core_colors = [
+  "#E67E80", # Soft Red
+  "#D3C6AA", # Soft Cream
+  "#A7C080", # Soft Green
+  "#7FBBB3", # Soft Blue
+  "#272E33", # Soft Dark
+  "#374145", # Soft Grey
+]
+ram_color = "#A7C080" # Soft Green
+swap_color = "#D3C6AA" # Soft Cream
+rx_color = "#A7C080" # Soft Green
+tx_color = "#E67E80" # Soft Red
+widget_title_color = "#D3C6AA" # Soft Cream
+border_color = "#1E2326" # Soft Base
+highlighted_border_color = "#7FBBB3" # Soft Blue
+text_color = "#2E383C" # Soft Light
+graph_color = "#374145" # Soft Grey
+cursor_color = "#7FBBB3" # Soft Blue
+selected_text_color = "#272E33" # Soft Dark
+selected_bg_color = "#7FBBB3" # Soft Blue
+high_battery_color = "#A7C080" # Soft Green
+medium_battery_color = "#D3C6AA" # Soft Cream
+low_battery_color = "#E67E80" # Soft Red
+gpu_core_colors = [
+  "#7FBBB3", # Soft Blue
+  "#D3C6AA", # Soft Cream
+  "#E67E80", # Soft Red
+  "#A7C080", # Soft Green
+  "#272E33", # Soft Dark
+  "#374145", # Soft Grey
+]
+arc_color = "#7FBBB3" # Soft Blue
